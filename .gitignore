@@ -1,0 +1,21 @@
+# Gradle / build output
+.gradle/
+build/
+*.iml
+.kotlin/
+
+# IDE (Android Studio keeps machine-specific state here)
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+
+# OS / artefacts
+.DS_Store
+*.apk
+*.aab
+*.mp4
+app/google-services.json
